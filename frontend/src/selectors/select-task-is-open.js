@@ -1,0 +1,1 @@
+export const selectTaskIsOpen = ({task}) => task.isOpen
